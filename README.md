@@ -15,3 +15,6 @@
 # 두번째 미션 README.md 페이지 구성
 - 7교시 8교시, README.md 페이지 구성
 - 마크다운 문법
+
+# GIF 테스트
+[gif 테스트](./img/test_gif.gif)
