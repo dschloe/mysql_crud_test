@@ -18,3 +18,4 @@
 
 # GIF 테스트
 ![gif 테스트](./img/test_gif.gif)
+![star](./img/stars-13910_256.gif)
