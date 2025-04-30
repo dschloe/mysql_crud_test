@@ -17,4 +17,4 @@
 - 마크다운 문법
 
 # GIF 테스트
-[gif 테스트](./img/test_gif.gif)
+![gif 테스트](./img/test_gif.gif)
